@@ -1,4 +1,1 @@
-function shutter(){
-	
-	
-}
+console.log("Siemka");
